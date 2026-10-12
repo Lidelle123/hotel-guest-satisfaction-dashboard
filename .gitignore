@@ -1,0 +1,20 @@
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Power BI local files
+*.pbit.lock
+*.pbix.lock
+
+# Operating system files
+Thumbs.db
+.DS_Store
+
+# Local environment
+.env
+.vscode/
+
+# # Dataset not approved for publication
+# data/*.xlsx
+# data/*.csv
